@@ -36,13 +36,11 @@ jobs:
         run: |
           bash script.sh
 
-      - name: config
-        run: |
-          git config --global user.name "Tunglies"
-          git config --global user.email "Tunglies@outlook.com"
-          
-      - name: update
-        run: |
-          git add all.txt
-          git commit -a -m "update: $(date) total: $(awk NF all.txt | wc -l)"
-          git push
+      - name: commit & push
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: 'update: $(date) total: $(awk NF output/all.txt | wc -l)'
+          branch: 'main'
+          force: true
+          directory: 'output'
