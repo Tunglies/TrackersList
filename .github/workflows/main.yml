@@ -42,5 +42,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: 'update: $(date) total: $(awk NF output/all.txt | wc -l)'
           branch: 'main'
-          force: true
-          directory: 'output'
+          # force: true
+          directory: '.'
