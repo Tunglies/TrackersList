@@ -38,11 +38,10 @@ jobs:
 
       - name: config
         run: |
-          git config --global user.name "Tunglies"
-          git config --global user.email "Tunglies@outlook.com"
-          
-      - name: update
-        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add all.txt
           git commit -a -m "update: $(date) total: $(awk NF all.txt | wc -l)"
-          git push
+          
+      - name: update
+        uses: ad-m/github-push-action@master
