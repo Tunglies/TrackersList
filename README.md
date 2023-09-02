@@ -11,19 +11,6 @@ Tracker 融合，适用于 Bittorrent 下载方式，qBittorrent 和 Bitcomet �
 - 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 内容添加至自定义 trackers 列表
 - 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 链接添加至 [qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) 自动更新 tracker 列表订阅栏
 
-# Fork
-
-修改 action workflow 文件  `.github\workflows\main.yml`
-
-替换 `user.name` 和 `user.email` 为自己的用户名和邮箱
-
-```yaml
-- name: config
-        run: |
-          git config --global user.name "Tunglies"
-          git config --global user.email "Tunglies@outlook.com"
-```
-
 # 鸣谢
 
 [@DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
