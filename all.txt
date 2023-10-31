@@ -151,7 +151,7 @@ http://191.254.37.5:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.148.69.107/announce
-http://193.189.100.186:80/announce
+http://193.189.100.187:80/announce
 http://193.37.214.12:6969/announce
 http://194.106.216.222/announce
 http://195.123.209.37:1337/announce
@@ -210,6 +210,7 @@ http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
+http://35.227.12.84:80/announce
 http://37.19.5.139:6969/announce
 http://37.19.5.155:6881/announce
 http://37.235.174.46:2710/announce
@@ -298,6 +299,7 @@ http://83.31.190.19:6969/announce
 http://83.31.191.97:6969/announce
 http://83.31.197.85:6969/announce
 http://83.31.199.157:6969/announce
+http://83.31.199.157:6969/announceudp://tracker.opentrackr.org:1337/announce
 http://83.31.209.3:6969/announce
 http://83.31.211.243:6969/announce
 http://83.31.212.134:6969/announce
@@ -392,7 +394,6 @@ http://bobbialbano.com:6969/announce
 http://bt-club.ws/announce
 http://bt-club.ws:80/announce
 http://bt-tracker.gamexp.ru:2710/announce
-http://bt.1000.pet:2712/announce
 http://bt.10000.pet:2714/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz/announce
@@ -667,7 +668,6 @@ http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
 http://servandroidkino.ru:80/announce
 http://share.camoe.cn:8080/announce
-http://share.dmhy.me/annonuce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
 http://shogiroom.com:6969/announce
@@ -699,6 +699,7 @@ http://t3.leech.ie/announce
 http://t3.leech.ie:80/announce
 http://tehconnection.eu:2790/announce
 http://thebytestore.co.uk:6969/announce
+http://thetracker.org/announc
 http://thetracker.org/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
@@ -1311,6 +1312,7 @@ https://tracker.torrentsnows.com/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win/announce
 https://tracker.tvgc.win:443/announce
+https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:2053/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.vectahosting.eu:8443/announce
@@ -1361,6 +1363,7 @@ udp://104.244.77.87:6969/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
+udp://107.189.5.254:6969/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
@@ -1400,11 +1403,10 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://185.5.97.139:8089/announce
 udp://185.86.149.205:1337/announce
-udp://185.87.45.163:6969/announce
 udp://188.165.253.109:1337/announce
 udp://191.101.229.236:1337/announce
 udp://192.95.46.115:6969/announce
-udp://193.189.100.186:6969/announce
+udp://193.189.100.187:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://194.106.216.222:80/announce
@@ -1415,17 +1417,16 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://204.zablog.me:6969/announce
+udp://207.174.104.31:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.67.16.113:8000/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.56.75:6969/announce
-udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://213.163.67.56:1337/announce
-udp://216.201.9.155:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.134.88.6:1337/announce
 udp://23.137.251.45:6969/announce
@@ -1433,7 +1434,7 @@ udp://23.153.248.2:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.254.228.89:6969/announce
 udp://2simple.naiive.xyz:6969/announce
-udp://34.94.213.23:6969/announce
+udp://35.227.12.84:1337/announce
 udp://35.227.12.84:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
@@ -1458,7 +1459,6 @@ udp://5.79.83.193:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.15.79.209:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
@@ -1468,6 +1468,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.beyondth.cn:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://61.216.149.33:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.212.85.66:2710/announce
 udp://62.233.57.13:6969/announce
@@ -1483,6 +1484,7 @@ udp://83.102.180.21:80/announce
 udp://83.146.97.90:6969/announce
 udp://83.31.197.85:6969/announce
 udp://85.17.19.180:80/announce
+udp://85.239.33.28:6969/announce
 udp://86.57.161.157:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
@@ -1503,6 +1505,7 @@ udp://9.rarbg.to:2770/announce
 udp://9.rarbg.to:2820/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
+udp://91.216.110.53:451/announce
 udp://91.218.230.81:6969/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
@@ -1656,7 +1659,6 @@ udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
-udp://isk.richardsw.club:6969/announce
 udp://itera.bz:6969/announce
 udp://jeremylee.sh:6969/announce
 udp://jiangvps.xyz:6969/announce
@@ -1727,6 +1729,7 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://oracle.rdysoftware.com:6969/announce
+udp://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
@@ -1748,6 +1751,7 @@ udp://pxnet.ru:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://ransan.tk:6969/announce
 udp://region.nl1.privex.cc:6969/announce
+udp://reisub.nsupdate.info:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -1843,7 +1847,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969
 udp://tracker.doko.moe:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
@@ -1931,7 +1934,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.uw0.xyz:6969
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.vanitycore.co:6969/announce
-udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.xelion.fr:6969/announce
