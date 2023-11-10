@@ -98,6 +98,7 @@ http://185.70.187.79:6969/announce
 http://185.83.215.123:6969/announce
 http://187.57.14.62:6969/announce
 http://188.165.253.109:1337/announce
+http://188.190.120.74:80/announce
 http://188.34.190.217:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
@@ -250,6 +251,7 @@ http://95.107.48.115:80/announce
 http://95.211.168.204:2710/announce
 http://95.217.161.135/announce
 http://95.217.167.10:6969/announce
+http://95.68.246.30:80/announce
 http://97.117.101.163:9000/announce
 http://97.117.102.248:9000/announce
 http://97.117.105.168:9000/announce
@@ -550,6 +552,7 @@ http://pubt.net:2710/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.211.ru:80/announce
+http://retracker.adminko.org:80/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.gorcomnet.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
@@ -878,6 +881,7 @@ http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.vrpnet.org:6969/announce
 http://tracker.xdvdz.com:2710/announce
+http://tracker.xelion.fr:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
@@ -1801,6 +1805,7 @@ udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pcfreetime.com:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
