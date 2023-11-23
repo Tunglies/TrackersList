@@ -110,7 +110,6 @@ http://177.45.135.37:6969/announce
 http://177.45.92.68:6969/announce
 http://178.175.143.27/announce
 http://178.175.143.27:80/announce
-http://178.248.247.244:6969/announce
 http://178.33.73.26:2710/announce
 http://179.100.24.134:6969/announce
 http://179.100.89.65:6969/announce
@@ -137,7 +136,6 @@ http://187.74.5.186:6969/announce
 http://187.74.6.189:6969/announce
 http://188.165.253.109:1337/announce
 http://188.190.120.74:80/announce
-http://188.34.190.217:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.223:6969/announce
 http://189.110.233.96:6969/announce
@@ -150,11 +148,9 @@ http://191.254.37.5:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.148.69.107/announce
-http://193.189.100.187:80/announce
 http://193.37.214.12:6969/announce
 http://194.106.216.222/announce
 http://195.123.209.37:1337/announce
-http://195.201.31.194/announce
 http://198.251.84.144/announce
 http://200.232.254.1:6969/announce
 http://201.42.213.75:6969/announce
@@ -208,7 +204,6 @@ http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
-http://35.227.12.84:80/announce
 http://37.19.5.139:6969/announce
 http://37.19.5.155:6881/announce
 http://37.235.174.46:2710/announce
@@ -234,7 +229,6 @@ http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
 http://45.63.111.135:8080/announce
 http://45.67.35.111:6969/announce
-http://45.79.238.158:4201/announce
 http://46.17.46.112:8080/announce
 http://46.231.241.43:6969/announce
 http://46.4.109.148:6969/announce
@@ -262,8 +256,6 @@ http://51.79.71.167/announce
 http://51.81.200.170:6699/announce
 http://51.81.46.170:6969/announce
 http://52.70.94.249/announce
-http://54.36.126.137:6969/announce
-http://54.39.179.91:6699/announce
 http://54.39.98.124/announce
 http://54.39.98.124:80/announce
 http://58.246.231.191:3333/announce
@@ -535,7 +527,6 @@ http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
 http://jsb.by:8000/announce
 http://kamikazee.duckdns.org:7777/announce
-http://kaztorka.org/announce.php
 http://kaztorka.org:80/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce
@@ -691,16 +682,13 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://t1.chfs.ch:6969/announce
-http://t1.leech.ie/announce
 http://t1.leech.ie:80/announce
 http://t1.pow7.com/announce
 http://t1.pow7.com:80/announce
-http://t2.leech.ie/announce
 http://t2.leech.ie:80/announce
 http://t2.popgo.org:7456/annonce
 http://t2.pow7.com/announce
 http://t2.pow7.com:80/announce
-http://t3.leech.ie/announce
 http://t3.leech.ie:80/announce
 http://tehconnection.eu:2790/announce
 http://thebytestore.co.uk:6969/announce
@@ -1140,7 +1128,6 @@ https://k.avc.cx:443/announce
 https://k.avc.cx:443/announce.php
 https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
 https://lima-peru.subventas.com:443/announce
-https://luna.jae.su:443/announce
 https://mail.martin-gebhardt.com:8443/announce
 https://mytracker.fly.dev/announce
 https://mytracker.fly.dev:443/announce
@@ -1375,12 +1362,10 @@ udp://102.223.180.235:6969/announce
 udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
-udp://104.244.77.14:1337/announce
 udp://104.244.77.87:6969/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
-udp://107.189.11.58:6969/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
@@ -1420,11 +1405,11 @@ udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://185.5.97.139:8089/announce
+udp://185.50.159.149:6969/announce
 udp://185.86.149.205:1337/announce
 udp://185.87.45.163:6969/announce
 udp://188.165.253.109:1337/announce
 udp://191.101.229.236:1337/announce
-udp://192.3.165.198:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.189.100.187:6969/announce
 udp://193.37.214.12:6969/announce
@@ -1449,13 +1434,14 @@ udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
+udp://220.130.15.30:6969/announce
 udp://23.134.88.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.2:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.254.228.89:6969/announce
 udp://2simple.naiive.xyz:6969/announce
-udp://34.94.213.23:6969/announce
+udp://35.227.12.84:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.19.5.155:2710/announce
@@ -1478,6 +1464,7 @@ udp://5.79.83.193:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
+udp://51.15.41.46:6969/announce
 udp://51.15.79.209:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
@@ -1487,7 +1474,6 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.beyondth.cn:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://61.216.149.33:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.212.85.66:2710/announce
 udp://62.233.57.13:6969/announce
@@ -1500,13 +1486,11 @@ udp://80.240.22.46:6969/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
-udp://83.146.97.90:6969/announce
 udp://83.31.191.232:6969/announce
 udp://85.17.19.180:80/announce
 udp://85.239.33.28:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
@@ -1654,7 +1638,6 @@ udp://globalwave.no-ip.org:6969/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 udp://home.kray.pw:6969/announce
 udp://home.yxgz.club:6969/announce
-udp://home.yxgz.vip:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:1337/announce
@@ -1863,6 +1846,7 @@ udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.edoardocolombo.eu:6969/announce
@@ -1907,7 +1891,6 @@ udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pcfreetime.com:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
@@ -1935,6 +1918,7 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.texoviva.com:9898/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
+udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451
 udp://tracker.torrent.eu.org:451/announce
