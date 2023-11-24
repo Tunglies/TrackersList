@@ -109,7 +109,6 @@ http://177.198.122.153:6969/announce
 http://177.45.135.37:6969/announce
 http://177.45.92.68:6969/announce
 http://178.175.143.27/announce
-http://178.175.143.27:80/announce
 http://178.33.73.26:2710/announce
 http://179.100.24.134:6969/announce
 http://179.100.89.65:6969/announce
@@ -148,6 +147,7 @@ http://191.254.37.5:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.148.69.107/announce
+http://193.189.100.186:80/announce
 http://193.37.214.12:6969/announce
 http://194.106.216.222/announce
 http://195.123.209.37:1337/announce
@@ -324,7 +324,6 @@ http://91.224.92.110:6969/announce
 http://93.158.213.92:1337/announce
 http://93.88.129.16/announce
 http://93.92.64.5/announce
-http://93.92.64.5:80/announce
 http://94.228.192.98/announce
 http://95.107.48.115/announce
 http://95.107.48.115:80/announce
@@ -388,7 +387,6 @@ http://bobbialbano.com:6969/announce
 http://bt-club.ws/announce
 http://bt-club.ws:80/announce
 http://bt-tracker.gamexp.ru:2710/announce
-http://bt.10000.pet:2714/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz/announce
 http://bt.3kb.xyz:80/announce
@@ -527,7 +525,6 @@ http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
 http://jsb.by:8000/announce
 http://kamikazee.duckdns.org:7777/announce
-http://kaztorka.org:80/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce
 http://kinorun.com:80/announce.php
@@ -613,7 +610,6 @@ http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
 http://peersteers.org/announce
 http://peersteers.org:80/announce
-http://potuk.com:2710/announce
 http://pow7.com/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
@@ -722,14 +718,12 @@ http://torrent.rus.ec:2710/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrent.unix-ag.uni-kl.de:80/announce
-http://torrentclub.online:54123/announce
 http://torrents-nn.cn:2710/announce
 http://torrents.hikarinokiseki.com:6969/announce
 http://torrents.linuxmint.com/announce.php
 http://torrents.linuxmint.com:80/announce
 http://torrents.linuxmint.com:80/announce.php
 http://torrentsmd.com:8080/announce
-http://torrentsmd.eu:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://torrentzilla.org/announce
 http://torrentzilla.org/announce.php
@@ -999,7 +993,6 @@ http://trackers.ibzu.me:80/announce
 http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz/announce
 http://trackme.theom.nz:80/announce
-http://trk.publictracker.xyz:6969/announce
 http://trun.tom.ru/announce
 http://trun.tom.ru:80/announce
 http://uatracker.net/announce.php
@@ -1029,7 +1022,6 @@ http://www.bitseduce.com/announce.php
 http://www.bitseduce.com:80/announce
 http://www.biztorrents.com/announce.php
 http://www.biztorrents.com:80/announce
-http://www.blackcats-games.net:2228/announce
 http://www.chouchou.club:8080/announce
 http://www.freerainbowtables.com:6969/announce
 http://www.genesis-sp.org:2710/announce
@@ -1362,6 +1354,7 @@ udp://102.223.180.235:6969/announce
 udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
+udp://104.244.77.14:1337/announce
 udp://104.244.77.87:6969/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
@@ -1411,7 +1404,7 @@ udp://185.87.45.163:6969/announce
 udp://188.165.253.109:1337/announce
 udp://191.101.229.236:1337/announce
 udp://192.95.46.115:6969/announce
-udp://193.189.100.187:6969/announce
+udp://193.189.100.186:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://194.106.216.222:80/announce
@@ -1441,6 +1434,8 @@ udp://23.153.248.2:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.254.228.89:6969/announce
 udp://2simple.naiive.xyz:6969/announce
+udp://34.94.213.23:1337/announce
+udp://34.94.213.23:6969/announce
 udp://35.227.12.84:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
@@ -1507,6 +1502,7 @@ udp://9.rarbg.to:2770/announce
 udp://9.rarbg.to:2820/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
+udp://91.216.110.53:451/announce
 udp://91.218.230.81:6969/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
