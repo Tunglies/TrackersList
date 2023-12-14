@@ -148,6 +148,7 @@ http://191.254.37.5:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.148.69.107/announce
+http://193.189.100.186:80/announce
 http://193.37.214.12:6969/announce
 http://194.106.216.222/announce
 http://195.123.209.37:1337/announce
@@ -202,9 +203,9 @@ http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
+http://34.94.213.23:80/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
-http://35.227.12.84:80/announce
 http://37.19.5.139:6969/announce
 http://37.19.5.155:6881/announce
 http://37.235.174.46:2710/announce
@@ -1408,6 +1409,7 @@ udp://184.105.151.166:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
+udp://185.225.68.26:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
@@ -1418,6 +1420,7 @@ udp://185.87.45.163:6969/announce
 udp://188.165.253.109:1337/announce
 udp://191.101.229.236:1337/announce
 udp://192.95.46.115:6969/announce
+udp://193.189.100.186:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://194.106.216.222:80/announce
@@ -1434,7 +1437,6 @@ udp://207.241.231.226:6969/announce
 udp://208.67.16.113:8000/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.56.75:6969/announce
 udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://213.163.67.56:1337/announce
@@ -1447,7 +1449,6 @@ udp://23.254.228.89:6969/announce
 udp://27.155.141.235:2710/announce
 udp://2simple.naiive.xyz:6969/announce
 udp://34.94.213.23:6969/announce
-udp://35.227.12.84:1337/announce
 udp://35.227.12.84:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
@@ -1480,6 +1481,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.beyondth.cn:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://61.216.149.33:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.212.85.66:2710/announce
 udp://68.zablog.me:6969/announce
@@ -1508,6 +1510,7 @@ udp://9.rarbg.to:2730/announce
 udp://9.rarbg.to:2820/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
+udp://91.216.110.53:451/announce
 udp://91.218.230.81:6969/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
@@ -1796,7 +1799,6 @@ udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://testing.syahaha.live:6969/announce
 udp://thagoat.rocks:6969/announce
-udp://thebytestore.co.uk:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
