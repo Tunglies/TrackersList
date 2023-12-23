@@ -81,6 +81,7 @@ http://189.110.233.96:6969/announce
 http://191.255.193.12:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
+http://193.189.100.187:80/announce
 http://193.37.214.12:6969/announce
 http://198.251.84.144/announce
 http://200.232.254.1:6969/announce
@@ -106,9 +107,9 @@ http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
+http://34.94.213.23:80/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
-http://35.227.12.84:80/announce
 http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
 http://43.139.20.56:6969/announce
@@ -1114,14 +1115,13 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://217.30.10.77:6969/announce
+udp://220.130.15.30:6969/announce
 udp://23.134.88.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.254.228.89:6969/announce
-udp://27.151.84.163:2710/announce
 udp://2simple.naiive.xyz:6969/announce
-udp://34.94.213.23:6969/announce
 udp://35.227.12.84:1337/announce
 udp://35.227.12.84:6969/announce
 udp://37.187.111.136:6969/announce
@@ -1136,13 +1136,13 @@ udp://46.138.242.240:6969/announce
 udp://46.17.46.112:8080/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://49.12.76.8:8080/announce
-udp://5.102.159.190:6969/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
+udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.68.174.87:6969/announce
@@ -1164,6 +1164,7 @@ udp://88.99.2.212:6969/announce
 udp://89.36.216.8:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
+udp://91.216.110.53:451/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1425,7 +1426,6 @@ udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
-udp://testing.syahaha.live:6969/announce
 udp://thagoat.rocks:6969/announce
 udp://thebytestore.co.uk:6969/announce
 udp://themaninashed.com:6969/announce
@@ -1512,6 +1512,7 @@ udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.rev.pm:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.cn:6969/announce
@@ -1539,6 +1540,7 @@ udp://tracker.vrpnet.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
+udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
