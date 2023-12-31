@@ -1,3 +1,4 @@
+http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
@@ -81,6 +82,7 @@ http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
+http://193.189.100.186:80/announce
 http://193.37.214.12:6969/announce
 http://198.251.84.144/announce
 http://200.232.254.1:6969/announce
@@ -803,6 +805,7 @@ http://www.zone-torrent.net:80/announce.php
 http://xtremewrestlingtorrents.net/announce.php
 http://xtremewrestlingtorrents.net:80/announce
 http://xtremewrestlingtorrents.net:80/announce.php
+https://00.alarmasqueretaro.com:443/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
 https://0d.kebhana.mx:443/announce
@@ -1096,7 +1099,7 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://185.50.159.149:6969/announce
 udp://192.95.46.115:6969/announce
-udp://193.189.100.189:6969/announce
+udp://193.189.100.186:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://194.38.21.77:6969/announce
@@ -1112,12 +1115,12 @@ udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://217.30.10.77:6969/announce
+udp://220.130.15.30:6969/announce
 udp://23.134.88.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.254.228.89:6969/announce
-udp://27.151.84.184:2710/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.221.67.6:6969/announce
@@ -1137,6 +1140,7 @@ udp://5.255.124.190:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
+udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.68.174.87:6969/announce
@@ -1153,13 +1157,12 @@ udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://83.31.218.243:6969/announce
 udp://85.215.156.254:6969/announce
-udp://86.57.161.157:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
-udp://91.216.110.53:451/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1213,6 +1216,7 @@ udp://bt.plc.mx:3074/announce
 udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
@@ -1410,6 +1414,7 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
+udp://t.jaekr.sh:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
@@ -1429,7 +1434,6 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
-udp://tothemoon.host:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
@@ -1523,6 +1527,7 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
+udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
