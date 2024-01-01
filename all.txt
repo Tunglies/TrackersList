@@ -1,4 +1,3 @@
-http://00.alarmasqueretaro.com:443/announce
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
@@ -82,7 +81,6 @@ http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
-http://193.189.100.186:80/announce
 http://193.37.214.12:6969/announce
 http://198.251.84.144/announce
 http://200.232.254.1:6969/announce
@@ -624,7 +622,6 @@ http://tracker.letpo.com/announce
 http://tracker.letpo.com:80/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
-http://tracker.loadbt.com:6969/announce
 http://tracker.logirl.moe:17052/announce
 http://tracker.m-team.cc:80/announce
 http://tracker.merded.xyz00/announce
@@ -1063,7 +1060,6 @@ udp://102.223.180.235:6969/announce
 udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
-udp://104.244.77.14:1337/announce
 udp://104.244.77.87:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
@@ -1099,7 +1095,7 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://185.50.159.149:6969/announce
 udp://192.95.46.115:6969/announce
-udp://193.189.100.186:6969/announce
+udp://193.189.100.188:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://194.38.21.77:6969/announce
@@ -1115,12 +1111,12 @@ udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://217.30.10.77:6969/announce
-udp://220.130.15.30:6969/announce
 udp://23.134.88.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.254.228.89:6969/announce
+udp://27.151.84.184:2710/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.221.67.6:6969/announce
@@ -1137,10 +1133,8 @@ udp://5.102.159.190:6969/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
-udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.68.174.87:6969/announce
@@ -1148,6 +1142,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.beyondth.cn:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://61.216.149.33:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://73.170.204.100:6969/announce
 udp://8.beyondth.cn:6969/announce
@@ -1159,10 +1154,10 @@ udp://83.31.218.243:6969/announce
 udp://85.215.156.254:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
+udp://91.216.110.53:451/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1222,7 +1217,6 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
@@ -1279,6 +1273,7 @@ udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 udp://home.kray.pw:6969/announce
+udp://home.yxgz.club:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:1337/announce
@@ -1524,6 +1519,7 @@ udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
