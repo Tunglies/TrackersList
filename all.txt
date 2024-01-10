@@ -78,6 +78,7 @@ http://185.70.187.79:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
+http://189.18.97.120:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.37.214.12:6969/announce
@@ -100,7 +101,7 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://222.216.138.154:6969/announce
+http://222.84.23.36:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -206,6 +207,7 @@ http://[2a00:b700:1::3:1dc]:8080/announce
 http://[2a01:4f8:c012:8025::1]:8080/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://aaa.army:8866/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://all4nothin.net/announce.php
 http://all4nothin.net:80/announce
 http://all4nothin.net:80/announce.php
@@ -259,7 +261,6 @@ http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.endpot.com/announce
 http://bt.endpot.com:80/announce
-http://bt.ktkj.com80/announce
 http://bt.ktkj.com:8080/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -353,6 +354,7 @@ http://ipv6.tracker.m-team.cc:80/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce
 http://irrenhaus.dyndns.dk:80/announce.php
+http://isk.richardsw.club:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
 http://kamikazee.duckdns.org:7777/announce
@@ -563,7 +565,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
 http://tracker.btsync.gq:233/announce
-http://tracker.btzero.net80/announce
 http://tracker.btzero.net:8080/announce
 http://tracker.bz/announce
 http://tracker.bz:80/announce
@@ -842,8 +843,10 @@ https://docker-tracker-production.up.railway.app/announce
 https://docker-tracker-production.up.railway.app:443/announce
 https://evening-badlands-6215.herokuapp.com/announce
 https://evening-badlands-6215.herokuapp.com:443/announce
+https://fbiagent.cyou:443/announce
 https://grifon.info:80/announce
 https://gwp2-v19.rinet.ru/announce
+https://gwp2-v19.rinet.ru:443/announce
 https://hcbt.pp.ua/announce
 https://hcbt.pp.ua:443/announce
 https://inferno.demonoid.is/announce
@@ -857,11 +860,11 @@ https://lima-peru.subventas.com:443/announce
 https://mail.martin-gebhardt.com:8443/announce
 https://nyaa.tracker.wf:7777/announce
 https://o-unkusrx.cloud.okteto.net/announce
+https://o-unkusrx.cloud.okteto.net:443/announce
 https://open.kickasstracker.com/announce
 https://open.kickasstracker.com:443/announce
 https://opentracker.cc/announce
 https://opentracker.cc:443/announce
-https://opentracker.co:443/announce
 https://opentracker.i2p.rocks/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz/announce
@@ -870,6 +873,7 @@ https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://seeders-paradise.org/announce
 https://seeders-paradise.org:443/announce
+https://shahidrazi.online:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
 https://t.quic.ws/announce
@@ -910,9 +914,12 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop/announce
 https://tr.highstar.shop:443/announce
 https://tr.kxmp.cf/announce
+https://tr.kxmp.cf:443/announce
 https://tr.kxmp.cf:80/announce
 https://tr.nyacat.pw/announce
 https://tr.nyacat.pw:443/announce
+https://tr.qfruiti.com:443/announce
+https://tr.qfruiti.in:443/announce
 https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
@@ -1071,7 +1078,7 @@ udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://116.202.49.58:6969/announce
 udp://119.28.71.45:8080/announce
-udp://120.36.84.125:2710/announce
+udp://120.36.84.193:2710/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://144.91.88.22:6969/announce
@@ -1099,8 +1106,8 @@ udp://185.217.199.21:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
-udp://185.50.159.149:6969/announce
 udp://192.95.46.115:6969/announce
+udp://193.189.100.190:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://194.38.21.77:6969/announce
@@ -1116,7 +1123,8 @@ udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://217.30.10.77:6969/announce
-udp://222.216.138.154:6969/announce
+udp://220.130.15.30:6969/announce
+udp://222.84.23.36:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
@@ -1139,6 +1147,7 @@ udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
+udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.68.174.87:6969/announce
@@ -1153,11 +1162,13 @@ udp://80.240.22.46:6969/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
+udp://83.146.104.162:6969/announce
 udp://83.31.218.243:6969/announce
 udp://85.215.156.254:6969/announce
 udp://86.57.161.157:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
@@ -1327,6 +1338,7 @@ udp://mail.lakameraobscura.com:6969/announce
 udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
+udp://martin-gebhardt.eu:25/announce
 udp://masd.sdsgzh.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
@@ -1530,6 +1542,7 @@ udp://tracker.vrpnet.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
+udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
@@ -1563,7 +1576,6 @@ udp://widemus.de:6969/announce
 udp://wjs.cool:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.jhymov.co:6969/announce
-udp://www.jiangvps.xyz:6969/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.th-local.uk:6969/announce
