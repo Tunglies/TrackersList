@@ -1069,7 +1069,6 @@ https://zer0day.000webhostapp.com:443/announce
 udp://0205.uptm.ch:6969/announce
 udp://10.rarbg.com/announce
 udp://10.rarbg.com:6969/announce
-udp://102.223.180.235:6969/announce
 udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
@@ -1091,7 +1090,6 @@ udp://15.204.205.14:6969/announce
 udp://15.204.57.168:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
-udp://159.65.224.91:6969/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
 udp://167.99.185.219:6969/announce
@@ -1109,8 +1107,10 @@ udp://185.217.199.21:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
+udp://186.10.172.76:1337/announce
 udp://192.95.46.115:6969/announce
 udp://192.99.9.53:3074/announce
+udp://193.189.100.187:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://194.38.21.77:6969/announce
@@ -1122,7 +1122,6 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://217.30.10.77:6969/announce
@@ -1130,6 +1129,7 @@ udp://220.130.15.30:80/announce
 udp://222.84.22.25:6969/announce
 udp://23.134.88.6:1337/announce
 udp://23.137.251.45:6969/announce
+udp://23.137.251.46:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.254.228.89:6969/announce
@@ -1261,7 +1261,6 @@ udp://dn42.smrsh.net:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
 udp://download01.championsofregnum.com:6969/announce
-udp://dylan-park.com:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
@@ -1495,6 +1494,7 @@ udp://tracker.lyretain.site:2710/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
