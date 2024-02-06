@@ -927,7 +927,6 @@ https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
-https://track.plop.pm:8989/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.4.babico.name.tr:443/announce
 https://tracker.baka.ink/announce
@@ -1122,12 +1121,12 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
+udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://217.30.10.77:6969/announce
 udp://220.130.15.30:80/announce
 udp://222.84.20.18:6969/announce
-udp://23.134.88.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.137.251.46:6969/announce
 udp://23.153.248.83:6969/announce
@@ -1138,7 +1137,6 @@ udp://37.187.95.112:6969/announce
 udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
 udp://38.7.201.142:6969/announce
-udp://45.76.120.37:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://46.17.46.112:8080/announce
@@ -1156,6 +1154,7 @@ udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://61.216.149.33:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://73.170.204.100:6969/announce
 udp://80.240.22.46:6969/announce
@@ -1168,6 +1167,7 @@ udp://85.215.156.254:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.36.216.8:6969/announce
+udp://89.47.160.50:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
 udp://93.104.214.40:6969/announce
@@ -1362,6 +1362,7 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
+udp://p2p.0g.cx:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
