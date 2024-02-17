@@ -15,6 +15,7 @@ http://107.189.7.143:6969/announce
 http://109.71.253.37:1096/announce
 http://11.rarbg.com:80/announce
 http://116.252.176.125:6969/announce
+http://116.8.90.195:6969/announce
 http://116.9.207.121:6969/announce
 http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
@@ -25,7 +26,6 @@ http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info/announce+108
 http://1337.abcvg.info:80/announce
-http://135.180.32.219:6969/announce
 http://140.82.21.192:8080/announce
 http://141.144.224.250:2710/announce
 http://141.144.224.250:6969/announce
@@ -104,13 +104,12 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://220.130.15.30:80/announce
-http://222.216.138.77:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
+http://34.89.30.59:80/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
-http://34.94.213.23:80/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
 http://37.235.174.46:2710/announce
@@ -441,7 +440,6 @@ http://private.minimafia.nl:443/announce
 http://proaudiotorrents.org/announce.php
 http://proaudiotorrents.org:80/announce
 http://proaudiotorrents.org:80/announce.php
-http://r.l5.ca:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.211.ru:80/announce
@@ -1083,11 +1081,11 @@ udp://107.189.11.58:6969/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://116.202.49.58:6969/announce
+udp://116.8.90.195:6969/announce
 udp://117.29.108.158:2710/announce
 udp://119.28.71.45:8080/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
-udp://135.180.32.219:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147job.com:6969/announce
 udp://148.251.53.72:6969/announce
@@ -1109,7 +1107,6 @@ udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.189.13.108:6969/announce
-udp://185.217.199.21:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
@@ -1131,16 +1128,14 @@ udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://217.30.10.77:6969/announce
 udp://220.130.15.30:80/announce
-udp://222.216.138.77:6969/announce
 udp://23.134.90.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.137.251.46:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.254.228.89:6969/announce
+udp://34.89.30.59:1337/announce
 udp://34.89.30.59:6969/announce
-udp://35.227.12.84:1337/announce
-udp://35.227.12.84:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.27.4.53:6969/announce
@@ -1179,6 +1174,8 @@ udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
+udp://91.216.110.53:451/announce
+udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1332,7 +1329,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://masd.sdsgzh.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -1466,11 +1462,9 @@ udp://tracker.dev-null.rocks:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.ex.ua:80/announce
-udp://tracker.exorditech.com.tr:8000/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.files.fm:6969/announce
@@ -1534,7 +1528,6 @@ udp://tracker.vrpnet.org:6969/announce
 udp://tracker.wellknownclub.net:8100/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
-udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
