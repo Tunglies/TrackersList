@@ -105,7 +105,6 @@ http://220.130.15.30:6969/announce
 http://220.130.15.30:80/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
-http://34.89.30.59:80/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
@@ -113,6 +112,7 @@ http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
 http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
+http://39.67.164.223:6969/announce
 http://43.139.20.56:6969/announce
 http://45.154.253.10/announce
 http://45.154.253.10:80/announce
@@ -1070,7 +1070,6 @@ udp://10.rarbg.com:6969/announce
 udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
-udp://104.244.77.14:1337/announce
 udp://104.244.77.87:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
@@ -1118,7 +1117,6 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://217.30.10.77:6969/announce
@@ -1131,11 +1129,13 @@ udp://23.157.120.14:6969/announce
 udp://23.163.56.58:6969/announce
 udp://23.254.228.89:6969/announce
 udp://27.155.140.94:2710/announce
+udp://34.89.30.59:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.27.4.53:6969/announce
 udp://37.59.48.81:6969/announce
 udp://38.7.201.142:6969/announce
+udp://45.76.120.37:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://46.17.46.112:8080/announce
@@ -1165,11 +1165,11 @@ udp://83.31.219.23:6969/announce
 udp://85.215.156.254:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.52:451/announce
+udp://91.216.110.53:451/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1214,13 +1214,11 @@ udp://bt.oiyo.tk:6969/announce
 udp://bt.plc.mx:3074/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
-udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://c.ns.cluefone.com:6969/announce
 udp://camera.lei001.com:6969/announce
@@ -1292,6 +1290,7 @@ udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
+udp://isk.richardsw.club:6969/announce
 udp://jeremylee.sh:6969/announce
 udp://jp.moeweb.pw:6969/announce
 udp://jutone.com:6969/announce
@@ -1396,6 +1395,7 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
+udp://t.jaekr.sh:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
@@ -1447,6 +1447,7 @@ udp://tracker.dev-null.rocks:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
+udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.ex.ua:80/announce
@@ -1505,7 +1506,6 @@ udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
