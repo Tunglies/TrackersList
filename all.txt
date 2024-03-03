@@ -104,6 +104,7 @@ http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://220.130.15.30:80/announce
 http://222.84.22.43:6969/announce
+http://27.197.176.113:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -113,7 +114,6 @@ http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
 http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
-http://39.67.100.60:6969/announce
 http://43.139.20.56:6969/announce
 http://45.154.253.10/announce
 http://45.154.253.10:80/announce
@@ -308,7 +308,6 @@ http://datascene.net:80/announce.php
 http://debuz.com:6969/announce
 http://dht.dhtclub.com:666/announce
 http://dn42.smrsh.net:6969/announce
-http://download01.championsofregnum.com:6969/announce
 http://ehtracker.org/1/announce
 http://ehtracker.org/1104308/announce
 http://ehtracker.org/1113709/announce
@@ -1103,13 +1102,11 @@ udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.189.13.108:6969/announce
-udp://185.225.68.26:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://186.10.181.146:1337/announce
 udp://192.95.46.115:6969/announce
-udp://192.99.9.53:3074/announce
 udp://193.233.161.213:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -1126,7 +1123,6 @@ udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
 udp://217.30.10.77:6969/announce
 udp://220.130.15.30:80/announce
-udp://222.84.22.43:6969/announce
 udp://23.134.90.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.137.251.46:6969/announce
@@ -1157,7 +1153,6 @@ udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://61.216.149.33:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://78.40.116.12:6969/announce
 udp://82.153.138.120:1337/announce
@@ -1165,7 +1160,6 @@ udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://83.146.98.78:6969/announce
-udp://85.215.156.254:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.36.216.8:6969/announce
@@ -1249,7 +1243,6 @@ udp://dmitrynegoda.com:6969/announce
 udp://dn42.smrsh.net:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
-udp://download01.championsofregnum.com:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
@@ -1396,7 +1389,6 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.overflow.biz:6969/announce
-udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
