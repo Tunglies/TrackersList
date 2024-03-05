@@ -103,7 +103,7 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://220.130.15.30:80/announce
-http://27.197.176.113:6969/announce
+http://222.84.22.43:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -113,6 +113,7 @@ http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
 http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
+http://39.67.98.75:6969/announce
 http://43.139.20.56:6969/announce
 http://45.154.253.10/announce
 http://45.154.253.10:80/announce
@@ -183,10 +184,10 @@ http://83.6.231.40:6969/announce
 http://83.6.232.23:6969/announce
 http://83.6.234.75:6969/announce
 http://83.6.237.118:6969/announce
-http://85.215.156.254:6969/announce
 http://88.99.189.199:6969/announce
 http://91.224.92.110:6969/announce
 http://93.158.213.92:1337/announce
+http://93.185.165.29:6969/announce
 http://93.88.129.16/announce
 http://95.107.48.115/announce
 http://95.107.48.115:80/announce
@@ -1096,6 +1097,7 @@ udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://178.170.48.154:1337/announce
+udp://178.42.152.254:6969/announce
 udp://179.43.155.30:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
@@ -1120,10 +1122,10 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.237.53.230:6969/announce
+udp://216.238.80.236:3074/announce
 udp://217.30.10.77:6969/announce
 udp://220.130.15.30:80/announce
 udp://222.84.22.43:6969/announce
-udp://23.134.90.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.137.251.46:6969/announce
 udp://23.153.248.83:6969/announce
@@ -1153,6 +1155,7 @@ udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://61.222.178.254:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://78.40.116.12:6969/announce
 udp://82.153.138.120:1337/announce
@@ -1162,6 +1165,7 @@ udp://83.102.180.21:80/announce
 udp://83.146.98.78:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://91.211.5.21:6969/announce
@@ -1170,6 +1174,7 @@ udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
+udp://93.185.165.29:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://94.103.87.87:6969/announce
 udp://94.243.222.100:6969/announce
