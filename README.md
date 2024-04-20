@@ -33,8 +33,6 @@ Tracker 融合，适用于 Bittorrent 下载方式，qBittorrent 和 Bitcomet �
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tunglies/TrackersList&type=Date)](https://star-history.com/#Tunglies/TrackersList&Date)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTunglies%2FTrackersList.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTunglies%2FTrackersList?ref=badge_shield)
-
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTunglies%2FTrackersList.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTunglies%2FTrackersList?ref=badge_large)
