@@ -10,7 +10,7 @@ Tracker 融合，适用于 Bittorrent 下载方式，qBittorrent 和 Bitcomet �
 
 - 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 内容添加至自定义 trackers 列表
 - 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 链接添加至 [qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) 自动更新 tracker 列表订阅栏
-- 可选 CDN加速 [all.txt](https://ghproxy.com/https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt)
+- 可选 CDN 加速 [all.txt](https://ghproxy.com/https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt)
 
 # 鸣谢
 
