@@ -20,6 +20,7 @@ http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
+http://125.227.79.123:80/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
@@ -33,6 +34,7 @@ http://144.76.118.107:6969/announce
 http://147job.com:6969/announce
 http://15.204.57.168:6969/announce
 http://151.115.49.115:1337/announce
+http://154.29.150.159:17715/announce
 http://155.248.200.105/announce
 http://156.234.201.18/announce
 http://156.234.201.18:80/announce
@@ -66,6 +68,7 @@ http://177.215.67.142:6969/announce
 http://178.42.51.249:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
+http://181.214.58.63:6969/announce
 http://184.61.17.58:9000/announce
 http://185.130.47.2:6969/announce
 http://185.148.3.231/announce
@@ -105,6 +108,7 @@ http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
+http://34.89.51.235:80/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
@@ -186,7 +190,6 @@ http://83.6.237.118:6969/announce
 http://88.99.189.199:6969/announce
 http://91.224.92.110:6969/announce
 http://93.158.213.92:1337/announce
-http://93.185.165.29:6969/announce
 http://93.88.129.16/announce
 http://95.107.48.115/announce
 http://95.107.48.115:80/announce
@@ -1100,6 +1103,7 @@ udp://116.202.49.58:6969/announce
 udp://119.28.71.45:8080/announce
 udp://120.36.85.247:2710/announce
 udp://121.199.16.229:6969/announce
+udp://125.227.79.123:80/announce
 udp://130.61.158.165:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
@@ -1125,6 +1129,7 @@ udp://178.215.224.155:6969/announce
 udp://178.32.222.98:3391/announce
 udp://178.42.51.249:6969/announce
 udp://179.43.155.30:6969/announce
+udp://181.214.58.63:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
@@ -1147,19 +1152,17 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.16:6969/announce
 udp://211.75.210.220:6969/announce
 udp://211.75.29.254:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.134.90.6:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://34.89.51.235:1337/announce
 udp://34.89.51.235:6969/announce
 udp://34.94.76.146:6969/announce
-udp://35.227.59.57:1337/announce
+udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
@@ -1178,7 +1181,6 @@ udp://5.255.124.190:6969/announce
 udp://5.78.114.187:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.222.82.36:6969/announce
@@ -1198,10 +1200,10 @@ udp://85.239.33.28:6969/announce
 udp://88.216.2.71:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1401,7 +1403,6 @@ udp://pxnet.ru:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://reisub.nsupdate.info:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -1541,6 +1542,7 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.texoviva.com:9898/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
+udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -1548,9 +1550,7 @@ udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trafficmgr.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
-udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
