@@ -63,7 +63,7 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
-http://178.42.50.77:6969/announce
+http://178.42.152.183:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
 http://184.61.17.58:9000/announce
@@ -106,13 +106,13 @@ http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
-http://34.89.51.235:80/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
 http://34.94.76.146:80/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
+http://35.227.59.57:80/announce
 http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
 http://43.139.20.56:6969/announce
@@ -1007,6 +1007,7 @@ https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc/announce.php
 https://tracker.m-team.cc:443/announce
 https://tracker.m-team.cc:443/announce.php
+https://tracker.midnightprogrammer.net:443/announce
 https://tracker.mlsub.net/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.moeblog.cn/announce
@@ -1065,6 +1066,7 @@ https://tracker2.ctix.cn:443/announce
 https://trackers.mlsub.net/announce
 https://trackers.mlsub.net:443/announce
 https://trackers.nekosunevr.co.uk:443/announce
+https://trackers.ptlsp.com:443/announce
 https://trackers.run:443/announce
 https://trackme.theom.nz/announce
 https://trackme.theom.nz:443/announce
@@ -1123,6 +1125,8 @@ udp://176.31.250.174:6969/announce
 udp://176.56.6.248:6969/announce
 udp://176.99.7.59:6969/announce
 udp://178.170.48.154:1337/announce
+udp://178.32.222.98:3391/announce
+udp://178.42.152.183:6969/announce
 udp://179.43.155.30:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
@@ -1131,7 +1135,6 @@ udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
-udp://186.10.172.164:1337/announce
 udp://192.95.46.115:6969/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -1152,8 +1155,9 @@ udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://27.155.141.22:2710/announce
-udp://34.89.51.235:1337/announce
-udp://35.227.59.57:6969/announce
+udp://34.89.51.235:6969/announce
+udp://34.94.76.146:6969/announce
+udp://35.227.59.57:1337/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
@@ -1176,13 +1180,13 @@ udp://51.159.54.68:6666/announce
 udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
+udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.210.114.129:6969/announce
 udp://64.23.195.62:6969/announce
 udp://66.160.128.46:1337/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://85.239.33.28:6969/announce
@@ -1193,7 +1197,6 @@ udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
-udp://91.238.104.240:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1293,9 +1296,12 @@ udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://home.kray.pw:6969/announce
+udp://home.yxgz.club:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:3000/announce
+udp://hzzwly.gq:6969/announce
+udp://i-p-v-6.tk:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
@@ -1415,7 +1421,6 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
-udp://t.jaekr.sh:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t.publictracker.xyz:6969/announce
 udp://t.zerg.pw:1337/announce
@@ -1483,6 +1488,7 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.hentai.gg:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
