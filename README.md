@@ -6,7 +6,7 @@ Tracker 融合，适用于 Bittorrent 下载方式，qBittorrent 和 Bitcomet �
 
 # 使用
 
-举例 [qBittorrent]()(原生) 或 [qBittorrent-Enhanced-Edition-docker](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) / [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) (均支持 tracker 链接订阅)
+举例 [qBittorrent]()(原生) 或 [qBittorrent-Enhanced-Edition-docker](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) / [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) (均支持 tracker 订阅)
 
 - 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 内容添加至自定义 trackers 列表
 - 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 链接添加至 [qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) 自动更新 tracker 列表订阅栏
