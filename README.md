@@ -30,7 +30,7 @@ Tracker 融合，适用于 Bittorrent 下载方式，qBittorrent 和 Bitcomet �
 
 个人用户构建的 Tracker 列表。
 
-[@萌番组](https://bangumi.moe/)
+[@萌番组](https://bangumi.moe/) [@ACG.RIP](https://acgrip.art/)
 
 资源站 Tracker 。
 
