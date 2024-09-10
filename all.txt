@@ -107,6 +107,7 @@ http://220.130.15.30:6969/announce
 http://222.216.139.233:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
+http://34.89.51.235:80/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
@@ -1105,7 +1106,6 @@ udp://10.rarbg.com:6969/announce
 udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
-udp://104.244.77.14:1337/announce
 udp://107.175.221.194:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://109.201.134.183:80/announce
@@ -1113,10 +1113,8 @@ udp://11.rarbg.com:80/announce
 udp://119.28.71.45:8080/announce
 udp://121.199.16.229:6969/announce
 udp://125.227.79.123:6969/announce
-udp://125.227.79.123:80/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
-udp://138.124.183.78:6969/announce
 udp://142.132.183.104:6969/announce
 udp://143.198.64.177:6969/announce
 udp://144.91.88.22:6969/announce
@@ -1140,7 +1138,6 @@ udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.216.179.62:25/announce
-udp://185.225.68.26:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
@@ -1160,17 +1157,15 @@ udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://211.75.29.254:6969/announce
 udp://217.30.10.77:6969/announce
-udp://23.134.89.9:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
+udp://23.168.232.9:1337/announce
 udp://27.151.84.116:2710/announce
-udp://34.89.51.235:1337/announce
-udp://34.89.51.235:6969/announce
+udp://27.151.84.116:6969/announce
 udp://34.94.76.146:6969/announce
 udp://35.227.59.57:1337/announce
-udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
@@ -1193,7 +1188,6 @@ udp://52.58.128.163:6969/announce
 udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://62.210.114.129:6969/announce
-udp://64.23.195.62:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
@@ -1204,9 +1198,9 @@ udp://88.216.2.71:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.110.76.229:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1258,6 +1252,7 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
+udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
@@ -1273,6 +1268,7 @@ udp://cn.pcfreetime.com:6969/announce
 udp://concen.org:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
+udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://dataforai.com:31332/announce
 udp://debuz.com:6969/announce
@@ -1330,7 +1326,6 @@ udp://kokodayo.site:6969/announce
 udp://laszlo130.go.ro:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://li1406-230.members.linode.com:6969/announce
 udp://li2021-95.members.linode.com:6969/announce
 udp://linfan.moe:6969/announce
@@ -1449,6 +1444,7 @@ udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr2.ysagin.top:2715/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
 udp://tracker-udp.anirena.com:80/announce
@@ -1550,6 +1546,7 @@ udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
+udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
