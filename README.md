@@ -12,6 +12,12 @@ Tracker 融合，适用于 Bittorrent 下载方式，qBittorrent 和 Bitcomet �
 - 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 链接添加至 [qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) 自动更新 tracker 列表订阅栏
 - 可选 CDN 加速 [all.txt](https://ghproxy.com/https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt)
 
+# 自建
+
+`all.txt` 生成脚本会读取仓库根目录 `.cache` 目录下所有子目录的所有 `txt` 文件并生成 。
+
+`.cache/subtitle_tracker/*.txt` 或者 `.cache/custom_dir/*.txt` 都是允许的结构。
+
 # 鸣谢
 
 [@DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
