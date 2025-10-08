@@ -21,7 +21,7 @@ http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
-http://123.245.62.50:6969/announce
+http://123.245.62.7:6969/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
@@ -80,6 +80,7 @@ http://185.70.187.79:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
+http://191.255.193.16:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.31.26.113:6969/announce
@@ -109,7 +110,6 @@ http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
-http://34.94.76.146:2701/announce
 http://34.94.76.146:2710/announce
 http://34.94.76.146:6969/announce
 http://34.94.76.146:80/announce
@@ -117,6 +117,7 @@ http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
 http://35.227.59.57:11450/announce
 http://35.227.59.57:1337/announce
+http://35.227.59.57:2701/announce
 http://35.227.59.57:2710/announce
 http://35.227.59.57:443/announce
 http://35.227.59.57:6969/announce
@@ -176,7 +177,6 @@ http://62.60.157.92:6969/announce
 http://65.108.2.176:2710/announce
 http://65.130.205.148:9000/announce
 http://75.127.14.224:2710/announce
-http://79.111.12.213:6969/announce
 http://79.137.198.96:6969/announce
 http://82.67.44.197:9999/announce
 http://83.31.190.19:6969/announce
@@ -499,6 +499,7 @@ http://siambit.org:80/announce
 http://smurfsoft.com:6969/announce
 http://speedtest.iperson.xyz:6969/announce
 http://sukebei.tracker.wf:8888/announce
+http://t-backup.213891.xyz:80/announce
 http://t.acg.rip:6699/announce
 http://t.al.uy:80/announce
 http://t.jaekr.sh:6969/announce
@@ -751,9 +752,9 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
+http://tracker.zhuqiy.com:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.eu.org:36107/announce
-http://tracker.zhuqiy.top:80/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com80/announce
@@ -872,6 +873,7 @@ https://bt.080609.xyz/announce
 https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org/announce
 https://bt.beatrice-raws.org:443/announce
+https://bt.bontal.net:443/announce
 https://bt.endpot.com/announce
 https://bt.endpot.com:443/announce
 https://bt.nfshost.com/announce
@@ -1141,6 +1143,7 @@ https://x7x.up.railway.app/announce
 https://x7x.up.railway.app:443/announce
 https://xtremex.herokuapp.com/announce
 https://xtremex.herokuapp.com:443/announce
+https://yuki.bt.bontal.net:443/announce
 https://zer0day.000webhostapp.com/announce
 https://zer0day.000webhostapp.com:443/announce
 udp://0205.uptm.ch:6969/announce
@@ -1150,6 +1153,7 @@ udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
+udp://104.248.85.59:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.189.2.131:1337/announce
 udp://109.201.134.183:80/announce
@@ -1162,7 +1166,6 @@ udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147job.com:6969/announce
 udp://148.251.53.72:6969/announce
-udp://151.243.109.163:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
@@ -1172,6 +1175,7 @@ udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
+udp://178.128.94.74:6969/announce
 udp://178.170.48.154:1337/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
@@ -1181,6 +1185,7 @@ udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
+udp://191.255.193.16:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.233.161.213:6969/announce
 udp://193.37.214.12:6969/announce
@@ -1192,16 +1197,17 @@ udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.189:6969/announce
-udp://211.75.205.189:80/announce
+udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://217.30.10.77:6969/announce
 udp://220.200.35.40:2710/announce
 udp://220.200.35.40:6969/announce
 udp://23.134.88.9:1337/announce
+udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://23.175.184.30:23333/announce
+udp://34.94.76.146:1337/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
@@ -1332,10 +1338,8 @@ udp://ftp.pet:2710/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://hificode.in:6969/announce
 udp://home.kray.pw:6969/announce
-udp://home.yxgz.club:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
-udp://hzzwly.gq:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://incine.ru:6969/announce
 udp://inferno.demonoid.is:3391/announce
@@ -1348,13 +1352,13 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.harry.lu:6969/announce
-udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
+udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://lucke.fenesisu.moe:6969/announce
 udp://lulz.vpndb.org:3000/announce
