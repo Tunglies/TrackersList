@@ -433,7 +433,7 @@ http://open.trackerlist.xyz:80/announce
 http://openbittorrent.com/announce
 http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
-http://opentracker.acgnx.com:6869/announce"
+http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se/announce
 http://opentracker.acgnx.se:80/announce
 http://opentracker.dg2.i2p/a
