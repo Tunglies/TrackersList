@@ -14,6 +14,8 @@ Tracker 集成，适用于 Bittorrent 下载方式，包含 qBittorrent 和 Bitc
 
 - 复制 `all.txt` 的内容，添加至自定义 Trackers 列表。
 
+  或
+
 - 复制 `all.txt` 的链接，添加至自动更新 Tracker 列表订阅栏。 
 
 # 自建
