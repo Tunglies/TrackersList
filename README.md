@@ -1,18 +1,20 @@
 # TrackersList
 
-[中文](README.md) | [English](README_en.md)
+中文 | [English](README_en.md)
 
 Tracker 集成，适用于 Bittorrent 下载方式，包含 qBittorrent 和 Bitcomet 等 Tracker 服务器列表。
 
 每日 UTC+8 凌晨时自动构建更新，自动去重。
 
+# TrackerList文件
+
+- all.txt => [Github](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) / [Mirror1](https://cdn.jsdelivr.net/gh/Tunglies/TrackersList/all.txt) / [Mirror2](https://ghfast.top/https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt)
+
 # 使用
 
-示例： [qBittorrent](https://github.com/qbittorrent/qBittorrent) 或 [qBittorrent-Enhanced-Edition-docker](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) / [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)（均支持 Tracker 订阅）
+- 复制 `all.txt` 的内容，添加至自定义 Trackers 列表。
 
-- 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 的内容，添加至自定义 Trackers 列表。
-- 复制 [all.txt](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) 的链接，添加至 [qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) 自动更新 Tracker 列表订阅栏。
-- 可选 CDN 加速：[all.txt](https://ghproxy.com/https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt)。
+- 复制 `all.txt` 的链接，添加至自动更新 Tracker 列表订阅栏。 
 
 # 自建
 
@@ -38,9 +40,9 @@ Tracker 集成，适用于 Bittorrent 下载方式，包含 qBittorrent 和 Bitc
 
 个人用户构建的 Tracker 列表。
 
-[@萌番组](https://bangumi.moe/) [@ACG.RIP](https://acgrip.art/)
+[@萌番组](https://bangumi.moe/) [@ACG.RIP](https://acg.rip/)
 
-资源站 Tracker。
+动漫站 Tracker。
 
 # Star History
 
