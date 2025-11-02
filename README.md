@@ -1,6 +1,6 @@
 # TrackersList
 
-[中文](README.md) | [English](README_en.md)
+中文 | [English](README_en.md)
 
 Tracker 集成，适用于 Bittorrent 下载方式，包含 qBittorrent 和 Bitcomet 等 Tracker 服务器列表。
 
@@ -40,9 +40,9 @@ Tracker 集成，适用于 Bittorrent 下载方式，包含 qBittorrent 和 Bitc
 
 个人用户构建的 Tracker 列表。
 
-[@萌番组](https://bangumi.moe/) [@ACG.RIP](https://acgrip.art/)
+[@萌番组](https://bangumi.moe/) [@ACG.RIP](https://acg.rip/)
 
-资源站 Tracker。
+动漫站 Tracker。
 
 # Star History
 
