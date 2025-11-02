@@ -39,7 +39,7 @@ Public Tracker list.
 
 Tracker list built by individual users.
 
-[@萌番组](https://bangumi.moe/) [@ACG.RIP](https://acgrip.art/)
+[@萌番组](https://bangumi.moe/) [@ACG.RIP](https://acg.rip/)
 
 Animation site Tracker.
 
