@@ -13,6 +13,9 @@ Automatically built and updated daily at UTC+8, with deduplication.
 # Usage
 
 - Copy the contents of `all.txt` to add to your custom trackers list.
+
+  or
+
 - Copy the link of `all.txt` to the auto-update tracker subscription field.
 
 # Self-Build
