@@ -10,7 +10,6 @@ Tracker 集成，适用于 Bittorrent 下载方式，包含 qBittorrent 和 Bitc
 
 - all.txt => [Github](https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt) / [Mirror1](https://cdn.jsdelivr.net/gh/Tunglies/TrackersList/all.txt) / [Mirror2](https://ghfast.top/https://raw.githubusercontent.com/Tunglies/TrackersList/main/all.txt)
 
-
 # 使用
 
 - 复制 `all.txt` 的内容，添加至自定义 Trackers 列表。
