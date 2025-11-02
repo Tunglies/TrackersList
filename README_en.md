@@ -1,6 +1,6 @@
 # TrackersList
 
-[中文](README.md) | [English](README_en.md)
+[中文](README.md) | English
 
 Tracker integration, suitable for Bittorrent download methods, Tracker server lists for qBittorrent and Bitcomet.
 
