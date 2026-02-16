@@ -39,6 +39,7 @@ http://156.234.201.18/announce
 http://156.234.201.18:80/announce
 http://157.90.169.123/announce
 http://158.101.137.177:6969/announce
+http://159.195.43.181:6969/announce
 http://159.69.65.157:6969/announce
 http://160.251.78.190:6969/announce
 http://163.172.209.40/announce
@@ -83,7 +84,6 @@ http://192.9.228.30:6699/announce
 http://193.31.26.113:6969/announce
 http://193.37.214.12:6969/announce
 http://198.251.84.144/announce
-http://200.170.110.170:6969/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
@@ -98,8 +98,8 @@ http://209.209.112.121:2710/announce
 http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.187:6969/announce
-http://211.75.205.188:80/announce
+http://211.75.205.188:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
@@ -107,8 +107,11 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:443/announce
+http://34.66.57.33:11450/announce
+http://34.66.57.33:2701/announce
+http://34.66.57.33:6969/announce
 http://34.66.57.33:80/announce
+http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -366,6 +369,7 @@ http://irrenhaus.dyndns.dk:80/announce.php
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce
@@ -479,6 +483,7 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -523,7 +528,6 @@ http://torrent-tracker.ru/announce.php
 http://torrent-tracker.ru:80/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce
 http://torrent.mp3quran.net:80/announce.php
@@ -634,7 +638,9 @@ http://tracker.guguan.000.pe:80/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.hiyj.cn/announce
 http://tracker.hiyj.cn:80/announce
+http://tracker.huadongblower.xyz:8080/announce
 http://tracker.ilibr.org:80/announce
+http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org/announce
 http://tracker.ipv6tracker.org:80/announce
@@ -653,6 +659,7 @@ http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
 http://tracker.lyretain.site:2710/announce
 http://tracker.m-team.cc:80/announce
+http://tracker.memelords.xyz:80/announce
 http://tracker.merded.xyz00/announce
 http://tracker.minglong.org80/announce
 http://tracker.minglong.org:8080/announce
@@ -1001,6 +1008,7 @@ https://tracker.foreverpirates.co/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
+https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
@@ -1050,6 +1058,7 @@ https://tracker.nanoha.org:443/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me/announce
 https://tracker.nitrix.me:443/announce
+https://tracker.novy.vip:443/announce
 https://tracker.nyaa.tk/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.opentracker.se/announce
@@ -1063,7 +1072,9 @@ https://tracker.pterclub.com/announce
 https://tracker.pterclub.com:443/announce
 https://tracker.publictorrent.net/announce
 https://tracker.publictorrent.net:443/announce
+https://tracker.puvvadi.net:443/announce
 https://tracker.qingwa.pro:443/announce
+https://tracker.qingwapt.org:443/announce
 https://tracker.quix.cf/announce
 https://tracker.quix.cf:443/announce
 https://tracker.renfei.net/announce
@@ -1136,10 +1147,11 @@ udp://135.125.236.64:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147.45.77.75:6969/announce
-udp://148.135.112.164:6969/announce
 udp://148.251.53.72:6969/announce
+udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
+udp://159.195.43.181:6969/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
 udp://167.99.185.219:6969/announce
@@ -1156,20 +1168,18 @@ udp://185.181.60.67:80/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
+udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://192.95.46.115:6969/announce
 udp://193.37.214.12:6969/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
-udp://200.170.110.170:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
-udp://211.75.205.187:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
@@ -1185,6 +1195,7 @@ udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
+udp://44.30.4.70:6969/announce
 udp://45.134.88.121:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
@@ -1449,6 +1460,7 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skyts.net:6969/announce
