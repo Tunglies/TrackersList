@@ -63,6 +63,7 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
+http://177.188.141.28:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
 http://185.130.47.2:6969/announce
@@ -75,7 +76,6 @@ http://185.216.178.49:6969/announce
 http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
-http://187.56.163.25:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
@@ -95,9 +95,11 @@ http://207.246.79.17:2710/announce
 http://207.246.79.17:6961/announce
 http://207.246.79.17:8080/announce
 http://209.209.112.121:2710/announce
+http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
@@ -160,7 +162,6 @@ http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt:80/announce.php
 http://60.249.37.20:6969/announce
-http://60.249.37.20:80/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -999,6 +1000,7 @@ https://tracker.foreverpirates.co/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
+https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
@@ -1120,6 +1122,7 @@ https://zer0day.000webhostapp.com/announce
 https://zer0day.000webhostapp.com:443/announce
 udp://10.rarbg.com/announce
 udp://10.rarbg.com:6969/announce
+udp://101.99.91.160:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
@@ -1134,6 +1137,7 @@ udp://119.28.71.45:8080/announce
 udp://132.226.6.145:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
+udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
 udp://156.234.201.18:80/announce
@@ -1146,6 +1150,7 @@ udp://173.201.36.219:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
+udp://177.188.141.28:6969/announce
 udp://178.170.48.154:1337/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
@@ -1156,7 +1161,6 @@ udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
-udp://187.56.163.25:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.37.214.12:6969/announce
@@ -1169,7 +1173,6 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
-udp://211.75.205.187:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
@@ -1178,6 +1181,7 @@ udp://23.137.251.45:6969/announce
 udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
+udp://37.120.182.83:15480/announce
 udp://37.120.182.83:1984/announce
 udp://37.120.182.83:54123/announce
 udp://37.187.111.136:6969/announce
@@ -1194,7 +1198,6 @@ udp://47.ip-51-68-199.eu:6969/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
-udp://5.75.253.124:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.158.144.42:6969/announce
@@ -1205,18 +1208,18 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://74.119.150.221:6969/announce
 udp://81.230.84.201:6969/announce
 udp://82.65.115.10:6969/announce
-udp://84.54.51.78:6969/announce
 udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://91.186.213.204:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1354,6 +1357,7 @@ udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
 udp://r.l5.ca:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -1404,7 +1408,6 @@ udp://tracker.1048576.cn:17272/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
-udp://tracker.alaskantf.com:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
@@ -1495,6 +1498,7 @@ udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
