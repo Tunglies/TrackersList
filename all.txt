@@ -97,11 +97,11 @@ http://209.209.112.121:2710/announce
 http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.188:80/announce
+http://211.75.205.188:6969/announce
 http://211.75.210.221:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
-http://216.144.239.90:6969/announce
 http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
@@ -160,7 +160,6 @@ http://60-fps.org/bt/announce.php
 http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -840,6 +839,7 @@ http://xtremewrestlingtorrents.net:80/announce.php
 http://yggtracker.i2p.rocks:80/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
+https://004430.xyz:443/announce
 https://0d.kebhana.mx:443/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
@@ -1138,6 +1138,7 @@ udp://11.rarbg.com:80/announce
 udp://119.28.71.45:8080/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
+udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147.45.77.75:6969/announce
 udp://148.251.53.72:6969/announce
@@ -1162,6 +1163,7 @@ udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
+udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://192.95.46.115:6969/announce
 udp://193.187.90.12:6969/announce
@@ -1177,12 +1179,13 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
-udp://211.75.210.221:6969/announce
+udp://211.75.205.188:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
@@ -1407,6 +1410,7 @@ udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1048576.cn:17272/announce
