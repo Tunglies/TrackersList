@@ -21,6 +21,7 @@ http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
+http://123.245.62.39:6969/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
@@ -47,6 +48,7 @@ http://163.172.209.40:80/announce
 http://163.172.29.130/announce
 http://163.172.29.130:80/announce
 http://167.235.245.209/announce
+http://167.253.78.20:8080/announce
 http://171.104.110.193:6969/announce
 http://171.104.110.21:6969/announce
 http://171.104.110.88:6969/announce
@@ -97,8 +99,8 @@ http://209.209.112.121:2710/announce
 http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.188:6969/announce
 http://211.75.210.221:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
@@ -157,7 +159,6 @@ http://60-fps.org/bt/announce.php
 http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:80/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -271,6 +272,7 @@ http://bt.ktkj.com:8080/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
+http://bt.publicvm.com:8080/announce
 http://bt.rghost.net/announce
 http://bt.rghost.net:80/announce
 http://bt.xcty.eu.org:2095/announce
@@ -739,6 +741,7 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
+http://tracker.zhuqiy.com:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -1134,7 +1137,6 @@ udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.175.221.194:6969/announce
-udp://107.189.2.131:1337/announce
 udp://107.189.4.235:1337/announce
 udp://107.189.7.165:6969/announce
 udp://109.201.134.183:80/announce
@@ -1142,10 +1144,10 @@ udp://11.rarbg.com:80/announce
 udp://119.28.71.45:8080/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
-udp://138.124.183.78:6969/announce
+udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
-udp://147.45.77.75:6969/announce
 udp://148.251.53.72:6969/announce
+udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
@@ -1155,13 +1157,12 @@ udp://172.105.235.127:6969/announce
 udp://173.201.36.219:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
-udp://176.99.7.59:6969/announce
 udp://178.170.48.154:1337/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:6969/announce
+udp://185.146.233.150:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
-udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
@@ -1178,12 +1179,10 @@ udp://2.57.214.218:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.188:6969/announce
+udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
-udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.175.184.30:23333/announce
@@ -1221,8 +1220,8 @@ udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.36.216.8:6969/announce
+udp://91.186.213.204:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -1440,7 +1439,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -1521,5 +1519,6 @@ udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://yuki.bt.bontal.net:6969/announce
+udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://z.mercax.com:53/announce
 udp://zecircle.xyz:6969/announce
