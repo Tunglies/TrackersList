@@ -1552,3 +1552,4 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://z.mercax.com:53/announce
 udp://zecircle.xyz:6969/announce
 udp://zer0day.ch:1337/announce
+udp://peerfect.org:6969/announce
