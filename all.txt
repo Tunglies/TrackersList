@@ -382,7 +382,6 @@ http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com/announce.php
 http://masters-tb.com:80/announce
 http://masters-tb.com:80/announce.php
-http://maxsrv.xyz:9000/announce
 http://mediaclub.tv/announce
 http://mediaclub.tv/announce.php
 http://mediaclub.tv:80/announce
