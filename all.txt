@@ -998,7 +998,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf/announce
 https://tracker.crawfish.cf:443/announce
 https://tracker.cutie.dating:443/announce
-https://tracker.cybar.xyz:443/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.dmhy.pw/announce
