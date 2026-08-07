@@ -46,7 +46,6 @@ http://163.172.209.40:80/announce
 http://163.172.29.130/announce
 http://163.172.29.130:80/announce
 http://167.235.245.209/announce
-http://167.253.78.20:8080/announce
 http://171.104.110.193:6969/announce
 http://171.104.110.21:6969/announce
 http://171.104.110.88:6969/announce
@@ -63,7 +62,6 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
-http://177.112.215.160:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
 http://185.126.65.92:6969/announce
@@ -77,6 +75,7 @@ http://185.216.178.49:6969/announce
 http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
+http://187.11.73.135:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
@@ -98,7 +97,8 @@ http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
-http://211.75.205.187:80/announce
+http://211.75.205.188:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
@@ -106,7 +106,14 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:11450/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:2701/announce
+http://34.66.57.33:2710/announce
 http://34.66.57.33:443/announce
+http://34.66.57.33:6969/announce
+http://34.66.57.33:80/announce
+http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -367,6 +374,7 @@ http://irrenhaus.dyndns.dk:80/announce.php
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce
@@ -481,6 +489,7 @@ http://share.camoe.cn80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -1043,6 +1052,7 @@ https://tracker.lilithraws.cf/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org/announce
 https://tracker.lilithraws.org:443/announce
+https://tracker.linvk.com:443/announce
 https://tracker.logirl.moe/announce
 https://tracker.logirl.moe:443/announce
 https://tracker.loli.co.nz/announce
@@ -1151,6 +1161,7 @@ udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://119.28.71.45:8080/announce
 udp://135.125.106.92:6969/announce
+udp://143.246.43.3:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
 udp://149.106.106.25:443/announce
@@ -1162,20 +1173,23 @@ udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
+udp://164.152.110.70:6969/announce
 udp://167.99.185.219:6969/announce
 udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://178.170.48.154:1337/announce
+udp://180.131.145.175:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
+udp://185.189.13.39:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.44.82.25:1337/announce
-udp://185.87.45.163:6969/announce
+udp://187.11.73.135:6969/announce
 udp://192.95.46.115:6969/announce
 udp://192.99.100.68:6969/announce
 udp://193.187.90.12:6969/announce
@@ -1185,18 +1199,15 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.25:6969/announce
-udp://211.75.205.187:6969/announce
-udp://211.75.205.187:80/announce
+udp://211.75.205.188:6969/announce
+udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
 udp://221.153.216.56:8081/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.128:6969/announce
-udp://23.157.120.14:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
@@ -1222,7 +1233,7 @@ udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
 udp://65.109.28.17:6969/announce
-udp://65.109.28.33:6969/announce
+udp://67.222.238.222:2010/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://74.119.149.136:6969/announce
 udp://82.65.115.10:6969/announce
@@ -1291,6 +1302,7 @@ udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+udp://edgev.duckdns.org:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -1309,6 +1321,7 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
+udp://ipv6.govt.hu:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://jutone.com:6969/announce
@@ -1457,7 +1470,9 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.ixuexi.click:6969/announce
+udp://tracker.k.vu:6969/announce
 udp://tracker.lelux.fi:6969/announce
+udp://tracker.linvk.com:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
@@ -1478,7 +1493,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sharebro.in:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -1542,4 +1556,3 @@ udp://yuptracker-sa.gaijinent.com:27022/announce
 udp://yuptracker-us.gaijinent.com:27022/announce
 udp://yuptracker.gaijinent.com:27022/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
