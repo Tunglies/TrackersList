@@ -44,4 +44,4 @@ Tracker 集成，适用于 Bittorrent 下载方式，包含 qBittorrent 和 Bitc
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Tunglies/TrackersList&type=Date)](https://star-history.com/#Tunglies/TrackersList&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Tunglies/TrackersList&type=Date)](https://star-history.dera.page/#Tunglies/TrackersList&Date)
