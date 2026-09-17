@@ -94,8 +94,9 @@ http://207.246.79.17:8080/announce
 http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.188:80/announce
-http://211.75.210.221:6969/announce
+http://211.75.205.187:6969/announce
+http://211.75.205.187:80/announce
+http://211.75.205.188:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
@@ -103,7 +104,6 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:1337/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -1167,6 +1167,7 @@ udp://185.121.168.96:1337/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.189.13.39:6969/announce
+udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.44.82.25:1337/announce
 udp://192.95.46.115:6969/announce
@@ -1179,16 +1180,16 @@ udp://1c.premierzal.ru:6969/announce
 udp://200.168.117.238:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://211.75.205.188:80/announce
-udp://211.75.210.221:6969/announce
+udp://211.75.205.187:6969/announce
+udp://211.75.205.187:80/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
 udp://221.153.216.56:8081/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.128:6969/announce
-udp://23.157.120.14:6969/announce
 udp://31.56.179.159:6969/announce
 udp://31.59.141.120:6969/announce
 udp://34.66.57.33:1337/announce
@@ -1200,6 +1201,7 @@ udp://37.59.48.81:6969/announce
 udp://37.60.249.217:6969/announce
 udp://38.180.157.12:2715/announce
 udp://43.250.54.126:6969/announce
+udp://45.137.199.107:6969/announce
 udp://45.38.170.167:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
@@ -1227,9 +1229,7 @@ udp://83.102.180.21:80/announce
 udp://85.17.55.112:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
-udp://90.226.147.124:6969/announce
 udp://91.177.126.188:6969/announce
 udp://91.211.5.21:6969/announce
 udp://93.104.214.40:6969/announce
@@ -1296,7 +1296,6 @@ udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
-udp://files.project-cataclysm.ru:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://freetracker.i2p:1337/announce
@@ -1353,6 +1352,7 @@ udp://open.u-p.pw:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
+udp://opentracker.lain.moscow:6969/announce
 udp://opentracker.simp.i2p:6969/a
 udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
