@@ -20,7 +20,7 @@ http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
-http://123.245.62.74:6969/announce
+http://123.245.62.62:6969/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
@@ -97,8 +97,8 @@ http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
-http://211.75.205.188:6969/announce
-http://211.75.205.188:80/announce
+http://211.75.210.221:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
@@ -106,7 +106,6 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:1337/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -1182,10 +1181,11 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.188:6969/announce
-udp://211.75.205.188:80/announce
+udp://211.75.205.187:6969/announce
+udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
@@ -1199,6 +1199,7 @@ udp://34.66.57.33:80/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
+udp://38.180.157.12:2715/announce
 udp://43.250.54.126:6969/announce
 udp://45.137.199.107:6969/announce
 udp://45.38.170.167:6969/announce
@@ -1228,9 +1229,9 @@ udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
